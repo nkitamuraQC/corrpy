@@ -62,3 +62,11 @@ git clone https://github.com/nkitamuraQC/abinitioTools.git
 cd abinitioTools
 pip install -e .
 ```
+or
+```shell
+git clone https://github.com/nkitamuraQC/abinitioTools.git
+cd abinitioTools
+uv venv .venv
+source .venv/bin/activate
+uv pip install -r requirements.txt
+```
