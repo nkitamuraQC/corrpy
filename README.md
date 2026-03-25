@@ -1,5 +1,5 @@
-# abinitioTools
-AbinitioTools is a Python Library for quantum correlation functions and Green function calculations in PySCF
+# corrpy
+corrpy is a Python Library for quantum correlation functions and Green function calculations in PySCF
 
 ## Features
 - Correlation functions
